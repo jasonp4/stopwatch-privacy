@@ -1,0 +1,2 @@
+# stopwatch-privacy
+Privacy Policy
